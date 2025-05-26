@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 I'm passionate about turning raw data into actionable insights that help drive better decisions.  
 Currently in my second-year pursuing a **B.Sc. in Data Science**, I enjoy exploring patterns, visualizing trends, and finding meaning in numbers. I'm an aspiring Data Analyst.
 
-📊 I work with tools like:
+
+
+📊 **I work with tools like:**
 - **Excel** (for data cleaning, dashboarding, and automation)
 - **SQL** (for querying, data wrangling, and KPIs)
 - **Power BI** (for professional, interactive dashboards)
