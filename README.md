@@ -22,27 +22,33 @@ Currently in my second-year pursuing a **B.Sc. in Data Science**, I enjoy explor
 - **Power BI** (for professional, interactive dashboards)
 - **Python** (basic knowledge with exposure to NumPy, Pandas, and Matplotlib)
 
-💡 I’m currently:
-- Enhancing my **DAX** and **Power BI** skills
-- Building projects based on real-world datasets
-- Learning in public by sharing insights and progress
 
-📌 **Projects I’m proud of:**
-- Pizza Sales Dashboard (SQL + Power BI)
-- Traditional Wear Sales Analysis
-- E-Bike Rental Business Case (Excel Project)
+---
 
-📚 Always Learning:
-- Advanced Excel
-- Data Modeling and Business Intelligence
-- Azure and AWS Data Tools
+🚧 **What I'm Working On**
+- 🔭 I’m currently working on **API-integrated dynamic dashboards** that auto-update based on live data feeds.
+- 👯 I’m looking to collaborate on **data analytics and visualization projects** with real-world use cases.
+- 🤔 I’m looking for help with **connecting APIs to Excel/Power BI for real-time dashboards**.
+
+---
+
+🌱 **Currently Learning**
+- 📌 **Advanced Excel** – formulas, automation, Power Query, and VBA
+- 📌 **Data Modeling & Business Intelligence** – structuring data for optimized insights
+- 📌 **Azure & AWS Data Tools** – cloud-based data storage, querying, and analytics
+
+---
+
+🚀 **Featured Projects**
+- 🍕 **Pizza Sales Dashboard** – MySQL + Power BI
+- 👘 **Traditional Wear Shop Analytics** – MySQL + Power BI
+- ⚡ **E-Bike Rental Business Model** – Excel-based project
+
+---
 
 📫 **Let’s Connect**
-- 📧 [murtazamorudwala0@gmail.com](mailto:murtazamorudwala0@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/murtaza-m-morud-51886b290)
-- [Portfolio Website](https://www.example.com) *(coming soon!)*
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murtazamorudwala0@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link-here)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murtaza-m-morud-51886b290)
 
 
 ---
